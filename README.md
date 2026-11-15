@@ -73,7 +73,7 @@ Fill in with your own numbers and `results/comparison.png`.
 | Static baseline | 13.6% | 100% | 5/28 | 26.2 ms | no reply (100% loss) | 23.8 ms |
 | Dynamic (SDN reroute) | 0.0% | 0% | 0/32 | 24.2 ms | 86.7 ms | 25.7 ms |
 
-![Baseline vs dynamic](resultscomparison.png)
+![Baseline vs dynamic](screenshots/resultscomparison.png)
 
 **Analysis.** In the static baseline, failing link s1-s2 left h1 and h2 with no working path:
 probe windows showed up to 100% loss until the link was restored (13.6% mean loss over the
@@ -98,6 +98,6 @@ UDP timeouts show observed probe loss, not proof of a physical fault.
 
 ![UDP probe output](screenshots/probe_output.png)
 
-![Baseline vs dynamic](resultscomparison.png)
+![Baseline vs dynamic](screenshots/resultscomparison.png)
 
 
