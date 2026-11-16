@@ -1,4 +1,4 @@
-<name1:Achintya BS>, <name2:Arnav kothari>,<name3:ashith shetyy>
+<name1:Achintya BS;SRN:PES1UG25AM016>, <name2:Arnav kothari;SRN:PES1UG25AM053>,<name3:ashith shetyy;SRN:PES1UG25AM059>
 N Network Diagnostic & Path Analysis Tool
 
 UDP socket probes (RTT, jitter, loss) running across a Mininet topology controlled by a
